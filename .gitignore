@@ -6,3 +6,5 @@ setup/ENV_OK
 
 # Log files
 logs/
+
+flask_intro/test.db
